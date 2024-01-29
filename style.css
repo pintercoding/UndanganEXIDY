@@ -471,29 +471,29 @@ footer li {
 /* mobile phone */
 @media (max-width: 576px) {
   html {
-    font-size: 60%;
+    font-size: 80%;
   }
 
   .simply-countdown > .simply-section {
-    padding: 45px;
-    margin: 3px;
+    padding: 75px;
+    margin: 5px;
   }
 
   .timeline li .timeline-image {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
   }
 
   .timeline li .timeline-panel {
-    width: 65%;
+    width: 85%;
     transform: translateX(-20px);
   }
 
   .timeline li .timeline-panel::before {
-    top: 30px;
+    top: 50px;
   }
 
   .timeline li .timeline-panel::after {
-    top: 31px;
+    top: 51px;
   }
 }
